@@ -1,14 +1,22 @@
 # UmaMusumeAutoTool
-**UmaMusumeAutoTool** is a smart OCR-based training automation bot for [Umamusume Pretty Derby Global Version](https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/). It automates the training process for **Any Supported and Compatible Umas** with customizable stat targets, skill selection, and race priorities
+**UmaMusumeAutoTool** is a feature-rich, OCR-driven automation toolkit designed for the [Umamusume Pretty Derby Global Version](https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/). It automates training, race selection, and event handling for compatible Umas, while also integrating powerful tools for visual customization and game enhancement.
+
+This Project is a **toolkit built on top of [Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)** to support the English Steam Global version.
+
 
 
 > ⚠️ **Disclaimer:** This tool is for personal and educational use only. It does **not inject**, **modify memory**, or bypass anti-cheat systems. Use responsibly and at your own risk.
 
 ---
 
-## ✨ Features
+## ✨ What's Included?
+### 🔧 Trainers-Legend-G Base Enhancements:
+- ✅ **Unlock Frame Rate & Resolution Limits, (4K, Ultrawide, Etc.)**
+- ✅ **Live Camera (Freecam Mode)**
+> **Credit:** Special thanks to [@MinamiChiwa](https://github.com/MinamiChiwa) and contributors of **Trainers-Legend-G**, whose core framework powers this tool.
 
-- 🏃 **Automatically Train Umas**  
+## 📌 Additional Features
+- 🏃 **Automatic Uma Trainer**  
   Working on supporting all Umas and tailors' actions based on stat priority, rainbows, and mood.
 
 - 🎯 **Custom Stat Goals**  
@@ -32,7 +40,9 @@
 - 💤 **Rest Optimization**  
   Prioritizes resting intelligently based on energy levels and upcoming opportunities.
 
-- 📘 **Skill Purchase Automation**  
+## ⚙️ Coming Soon
+
+- 📘 **Skill Purchase Automation**
   Purchases optimal skills automatically (based on database logic), or lets the user decide later.
 
 - ⏯ **Start / Pause Anytime**  
@@ -72,16 +82,26 @@ Run UmaTrainer.exe and configure desired configurations and settings, then launc
 This project is open for contributions! <br>
 Please feel free to fork, submit pull requests, or open issues. Any contributions are very welcome and greatly appreciated!
 
+## 🙏 Acknowledgments
+- 💖 Special thanks to MinamiChiwa for Trainers-Legend-G
+- 🎮 Thank you to all the Umamusume players and developers who inspire this work
 ---
 # UmaMusumeAutoTool 日本語版
-このツールは、[ウマ娘 プリティーダービー グローバルバージョン](https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/)。 用のスマートなOCRベースのトレーニング自動化ボットです。カスタマイズ可能なステータス目標、スキル選択、レース優先順位により、**対応・互換性のあるすべてのウマ娘**の調教プロセスを自動化します。
+このツールは、[ウマ娘 プリティーダービー グローバルバージョン](https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/)。 のために設計された、機能豊富なOCR駆動の自動化ツールキットです。
+また、ビジュアルカスタマイズやゲーム強化のための強力なツールも統合されている。
+
+このプロジェクトは[Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)**の上に構築されたツールキットで、英語版Steamグローバル版をサポートします。
 
 > ⚠️ **免責事項：***このツールは、個人的および教育的使用のみを目的としています。このツールは、**インジェクション**、**メモリの変更**、またはアンチチートシステムをバイパスするものではありません。責任を持って、自己責任で使用してください。
 
 ---
+## ✨ 何が含まれる？
+### 🔧 Trainers-Legend-G ベース強化:
+- ✅ **フレームレートと解像度の制限の解除（4K、ウルトラワイドなど）**
+- ✅ **ライブカメラ（フリーカムモード）**
+> **クレジット** [MinamiChiwa](https://github.com/MinamiChiwa)と**Trainers-Legend-G**の貢献者に感謝する。
 
-## ✨ 特徴
-
+## 📌  その他の特徴
 - 🏃 **ウマを自動的に訓練する**
  すべてのウマのサポートに取り組み、ステータスの優先順位、レインボー、ムードに基づいてウマの行動を調整する。
 
@@ -105,6 +125,8 @@ Please feel free to fork, submit pull requests, or open issues. Any contribution
 
 - 💤 **休養の最適化**  
   エネルギーレベルと今後の機会に基づいて、休養の優先順位を賢く決める。
+
+## ⚙️ 近日公開
 
 - 📘 **スキル購入の自動化**  
   最適なスキルを（データベースロジックに基づいて）自動的に購入するか、ユーザーに後で決定させる。
@@ -145,3 +167,7 @@ UmaTrainer.exeを実行し、必要な構成と設定を行い、ゲームを起
 ## 🤝 寄付金
 このプロジェクトはコントリビューションを受け付けています！<br>
 フォーク、プルリクエスト、課題のオープンなど、ご自由にどうぞ。どんな貢献でも大歓迎ですし、大いに感謝します！
+
+## 🙏 謝辞
+- 💖 トレーナーズ-レジェンド-GのMinamiChiwa氏に感謝する。
+- 🎮 この作品にインスピレーションを与えてくれたすべてのウマ娘選手と開発者に感謝する。
