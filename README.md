@@ -11,7 +11,7 @@ This Project is a **toolkit built on top of [Trainers-Legend-G](https://github.c
 
 ## ✨ What's Included?
 ### 🔧 Trainers-Legend-G Base Enhancements:
-- ✅ **Unlock Frame Rate & Resolution Limits, (4K, Ultrawide, Etc.)**
+- ✅ **Unlock Frame Rate**
 - ✅ **Live Camera (Freecam Mode)**
 > **Credit:** Special thanks to [@MinamiChiwa](https://github.com/MinamiChiwa) and contributors of **Trainers-Legend-G**, whose core framework powers this tool.
 
