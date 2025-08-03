@@ -1,4 +1,7 @@
 # UmaMusumeAutoTool
+> ⚠️ **WORK IN PROGRESS** - Will Update Once All Core Functionalities are working <br>
+> **Currently 80% Finished**, Check Out My File Dumper For now - https://github.com/watsonjph/UmaMusumeGlobalDumper
+
 **UmaMusumeAutoTool** is a feature-rich, OCR-driven automation toolkit designed for the [Umamusume Pretty Derby Global Version](https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/). It automates training, race selection, and event handling for compatible Umas, while also integrating powerful tools for visual customization and game enhancement.
 
 This Project is a **toolkit built on top of [Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)** to support the English Steam Global version.
